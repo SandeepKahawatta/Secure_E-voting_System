@@ -1,0 +1,11 @@
+{
+    "welcome": "Welcome to the Church Voting System",
+    "login": "Login",
+    "vote": "Vote",
+    "submit": "Submit",
+    "results": "Results",
+    "vote_success": "Vote successfully submitted!",
+    "nic": "NIC",
+    "password": "Password"
+  }
+  
